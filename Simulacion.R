@@ -1,5 +1,5 @@
 ## Valor de Pi mediante simulación
-n <- 902395
+n <- 9000000
 x <- runif(n, -1, 1)
 y <- runif(n, -1, 1)
 z <- (x ^ 2 + y ^ 2) ^ (1 / 2)
